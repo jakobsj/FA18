@@ -23,14 +23,14 @@
        Technical University of Denmark
        Email: pcha@dtu.dk
 
-       Jakob Sauer Jorgensen
+       Jakob Sauer Jørgensen
        Technical University of Denmark
        Email: jakj@dtu.dk
 
    REFERENCE:
 
        Computed Tomography: Algorithms, Insight and Just Enough Theory
-       P. C. Hansen, J. S. Jorgensen, W. R. B. Lionheart (Eds.)
+       P. C. Hansen, J. S. Jørgensen, W. R. B. Lionheart (Eds.)
        Fundamentals of Algorithms, FA18, SIAM, Philadelphia, PA, 2021
 
    SOFTWARE REVISION DATE:
